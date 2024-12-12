@@ -33,7 +33,7 @@ h1 {
 }
 
 .white {
-  color: #fefefe;
+  color: #ffffff;
 }
 
 h3 {
@@ -88,7 +88,7 @@ p.opaque-black {
 
 .btn-black {
   background-color: #000000;
-  color: #fefefe;
+  color: #ffffff;
   -webkit-transition: all .4s;
   transition: all .4s;
 }
@@ -133,7 +133,7 @@ p.opaque-black {
 }
 
 .invite-link-white {
-  color: #fefefe;
+  color: #ffffff;
 }
 
 .invite-link-white::after {
@@ -272,7 +272,7 @@ footer .footer_menu {
 }
 
 footer .footer_menu-link {
-  color: #fefefe;
+  color: #ffffff;
 }
 
 footer .footer_menu-link:hover {
