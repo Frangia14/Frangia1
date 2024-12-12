@@ -438,7 +438,7 @@ button {
 }
 
 .section-create-img {
-  background-image: url("../../images/create-and-share.jpg");
+  background-image: url("../../images/portogallo002.jpg");
   background-size: cover;
 }
 
@@ -975,7 +975,7 @@ button {
     width: 35%;
   }
   .section-create-img {
-    background-image: url("../../images/create-and-share-tablet.jpg");
+    background-image: url("../../images/portogallo002.jpg");
     background-position: center;
   }
   .section-stories-img {
@@ -1094,7 +1094,7 @@ button {
   }
   .logo {
     position: relative;
-    z-index: 10;
+    z-index: 50;
   }
   .nav_list {
     background-color: #ffffff;
@@ -1339,7 +1339,7 @@ button {
     height: 300px;
   }
   .section-create-img {
-    background-image: url("../../images/create-and-share-mobile.jpg");
+    background-image: url("../../images/portogallo002.jpg");
   }
   .section-stories-img {
     background-image: url("../../images/beautiful-stories-mobile.jpg");
